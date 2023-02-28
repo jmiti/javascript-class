@@ -7,7 +7,7 @@ else { console.log(2) }
 let second = (first == 1) ? "one" : 2
 // console.log(second)
 
-switch (first) {
+    switch (first) {
     case 1:
         console.log("one")
         break;
